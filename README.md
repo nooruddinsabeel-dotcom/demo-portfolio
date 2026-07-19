@@ -88,8 +88,9 @@ Responsibilities:
 
 - Autodesk Construction Cloud (ACC)
 - BIM Coordinator
+- BIM PLANING & MANAGEMENT
 - Revit MEP
-- Navisworks Clash Detection
+- HVAC DESIGN
 
 ---
 
